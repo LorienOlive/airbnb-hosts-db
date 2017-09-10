@@ -3,6 +3,7 @@
     {
       "host_id": 1,
       "name": "Luxury Villas",
+      "date_joined": "January 2012",
       "location": {
         "city": "Puerto Vallarta",
         "state": "Jalisco",
